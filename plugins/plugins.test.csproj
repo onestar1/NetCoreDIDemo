@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>plugins.test</AssemblyName>
+    <RootNamespace>plugins.test</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Super.Core\Super.Core.csproj" />
+  </ItemGroup>
+
+</Project>
